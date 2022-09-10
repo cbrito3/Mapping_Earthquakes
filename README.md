@@ -1,8 +1,6 @@
 # Mapping_Earthquakes
 
-#Results for Module 13 Challenge for Earthquake_Challenge repository:
-
-# Mapping_Earthquakes
+# Deliverables for Module 13 - Earthquake_Challenge repository:
 
 # Background
 
