@@ -20,3 +20,5 @@ https://github.com/cbrito3/Mapping_Earthquakes/blob/Earthquake_Challenge/Earthqu
 # Deliverable 3
 
 For this map we used our knowledge of JavaScript and Leaflet.js to add a third map style to the earthquake map, tile and base layer dark were the options used. The picture below shows the result:
+https://github.com/cbrito3/Mapping_Earthquakes/blob/Earthquake_Challenge/Earthquake_Challenge/Deliverable%203.png?raw=true
+
