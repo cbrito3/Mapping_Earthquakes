@@ -8,7 +8,7 @@ Basil and Sadhana would like to see the earthquake data in relation to the tecto
 
 For this map we added tectonic plate data using d3json(), data using the geoJSON() layer, and then sat the tectonic plate LineString data to stand out on the map. Additionally, we added the tectonic plate data to overlay object with the earthquake data. The picture below shows the result:
 
-https://github.com/cbrito3/Mapping_Earthquakes/blob/Earthquake_Challenge/Earthquake_Challenge/Deliverable%201.png
+![Deliverable%201](https://github.com/cbrito3/Mapping_Earthquakes/blob/Earthquake_Challenge/Earthquake_Challenge/Deliverable%201.png)
 
 # Deliverable 2
 
