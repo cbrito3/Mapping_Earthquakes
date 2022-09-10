@@ -14,11 +14,10 @@ For this map we added tectonic plate data using d3json(), data using the geoJSON
 
 For this map we used our knowledge of JavaScript, Leaflet.js, and geoJSON data. We added major earthquake data to the map using d3.json(), color and the radious of the circle markers were added based on the magnitude of the earthquake and popup marker for each earthquake to display the magnitude and location of the earthquake using the GeoJSON layer, geoJSON(). The picture below shows the result:
 
-https://github.com/cbrito3/Mapping_Earthquakes/blob/Earthquake_Challenge/Earthquake_Challenge/Deliverable%202.png?raw=true![image](https://user-images.githubusercontent.com/107222716/189470066-6a7fa7df-e1be-4c34-8ce0-421b8da3c989.png)
-
+![Deliverable%202](https://github.com/cbrito3/Mapping_Earthquakes/blob/Earthquake_Challenge/Earthquake_Challenge/Deliverable%202.png)
 
 # Deliverable 3
 
 For this map we used our knowledge of JavaScript and Leaflet.js to add a third map style to the earthquake map, tile and base layer dark were the options used. The picture below shows the result:
-https://github.com/cbrito3/Mapping_Earthquakes/blob/Earthquake_Challenge/Earthquake_Challenge/Deliverable%203.png?raw=true
 
+![Deliverable%203](https://github.com/cbrito3/Mapping_Earthquakes/blob/Earthquake_Challenge/Earthquake_Challenge/Deliverable%203.png)
