@@ -38,7 +38,7 @@ Basil and Sadhana would like to see the earthquake data in relation to the tecto
 
 ![Deliverable%202](https://github.com/cbrito3/Mapping_Earthquakes/blob/Earthquake_Challenge/Earthquake_Challenge/Deliverable%202.png)
 
-# Deliverable 3
+# Deliverable 3: Add an Additional Map
 * A third map tile layer is created 
 * The third map is added to the overlay object 
 * All the earthquake data and tectonic plate data are displayed on the all maps of the webpage 
